@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+d:\mycode\consoleapplication1\consoleapplication1\perlin.h(55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\mycode\consoleapplication1\consoleapplication1\perlin.h(56): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\mycode\consoleapplication1\consoleapplication1\perlin.h(57): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> D:\MyCode\ConsoleApplication1\Debug\ConsoleApplication1.exe
